@@ -1,0 +1,25 @@
+{
+  "name": "about-tailwind",
+  "version": "1.0.0",
+  "description": "All about Tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArchiveNodeR/About-Tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ArchiveNodeR/About-Tailwind/issues"
+  },
+  "homepage": "https://github.com/ArchiveNodeR/About-Tailwind#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.5",
+    "tailwindcss": "^4.3.5"
+  }
+}
